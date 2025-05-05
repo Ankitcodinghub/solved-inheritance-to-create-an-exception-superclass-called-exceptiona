@@ -1,0 +1,1 @@
+# solved-inheritance-to-create-an-exception-superclass-called-exceptiona
